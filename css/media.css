@@ -1,0 +1,634 @@
+@media (min-width:1400px){
+
+    .ban-text {
+        margin-top: 45px;
+    }
+    
+    .ban-text h2 {
+        font-size: 72px;
+
+    }
+    .ban-text h1 {
+        font-size: 150px;
+    }
+}
+
+
+
+
+@media (min-width:1200px) and (max-width:1399px){
+        /* nav-bar section repnosive part */
+
+/* banner section responsive part */
+
+    .ban-text {
+        margin-top: 45px;
+    }
+    
+    .ban-text h2 {
+        font-size: 72px;
+
+    }
+    .ban-text h1 {
+        font-size: 150px;
+    }
+    .ban-btn {
+        padding-top: 52px;
+    }
+    .ban-btn a {
+        padding: 8px 21px;
+        font-size: 15px;
+    }
+
+    .ban-btn::after {
+
+        top: 24px;
+        height: 3px;
+
+    }
+
+    /* footer form responsive part */
+    .f-left-content p {
+        padding-top: 31px;
+        padding-bottom: 0px;
+        line-height: 27px;
+    }
+    .footer-form input {
+        width: 383px;
+    }
+    .footer-form button {
+        padding: 17px 13px;
+        right: -6px;
+        font-size: 15px;
+        font-weight: 300;
+    }
+
+    /* comment part section */
+    .right-icon {
+        height: 110px;
+        width: 110px;
+        text-align: center;
+        line-height: 110px;
+        font-size: 30px;
+    }
+
+}
+
+@media (min-width:992px) and (max-width:1199px){
+    /* nav-bar section repnosive part */
+    .navbar {
+        padding-top: 0;
+    }
+    .navbar-brand {
+        transform: scale(1);
+    }
+/* banner-content */
+        .ban-text {
+            margin-top: 45px;
+        }
+        
+        .ban-text h2 {
+            font-size: 59px;
+    
+        }
+        .ban-text h1 {
+            font-size: 75px;
+            padding: 0 85px;
+        }
+        .ban-btn {
+            padding-top: 52px;
+        }
+        .ban-btn a {
+            padding: 8px 21px;
+            font-size: 15px;
+        }
+    
+        .ban-btn::after {
+    
+            top: 24px;
+            height: 3px;
+    
+        }
+/* comment-section part */
+        .comment-content p {
+            font-size: 21px;
+            line-height: 33px;
+        }
+
+/* footer form responsive part */
+        .f-left-content p {
+            padding-top: 17px;
+            padding-bottom: 0px;
+        }
+        .footer-form input {
+            width: 383px;
+        }
+        .footer-form button {
+            padding: 17px 13px;
+            right: -6px;
+            font-size: 15px;
+            font-weight: 300;
+        }
+ /* About responsive start */
+    #about-section {
+        padding-top: 42px;
+        padding-bottom: 80px;
+    }
+
+    .header-section h3 {
+        font-size: 24px;
+    }
+
+    .header-section h2 {
+        font-size: 30px;
+    }
+    .header-section h2::after {
+        left: 50%;
+        bottom: -23px;
+        width: 49px;
+    }
+    .header-section p {
+        padding-top: 37px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .about-wrapper {
+        margin-top: -36px;
+    }
+
+    /* service part responsive */
+    .second-hdr {
+        padding-bottom: 58px;
+    }
+
+    #service-section {
+         padding-bottom: 58px;
+    }
+    
+    .s-content h4 {
+        font-size: 16px;
+         margin-top: 10px;
+    }
+    
+    .s-content p {
+        font-size: 13px;
+    }
+    
+
+}
+
+@media (min-width:768px) and (max-width:991px){
+    .humburger {
+        background-color: transparent;
+        height: 31px;
+        width: 39px;
+    }
+
+    #nav-bar-section {
+        position: sticky;
+        background: rgb(179, 38, 197);
+    }
+    /* navbar responsive part */
+    .navbar-nav {
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 10px 0px;
+    }
+    .navbar {
+        padding-top: 0;
+    }
+    .navbar-brand {
+        transform: scale(.9);
+    }
+    .navbar-expand-lg .navbar-nav .nav-item .nav-link{
+        color: #000;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+
+        display: none;
+    }
+
+    /* banner-content */
+    .ban-text h2 {
+        font-size: 60px;
+
+    }
+    .ban-text h1 {
+        font-size: 56px;
+    }
+    .ban-btn {
+        padding-top: 52px;
+    }
+    .ban-btn a {
+        padding: 12px 37px;
+        font-size: 15px;
+    }
+
+    .ban-btn::after {
+
+        top: 24px;
+        height: 3px;
+
+    }
+
+    /* comment section responsive part */
+
+    .left-icon {
+        display: none;
+    }
+    .right-icon {
+        display: none;
+    }
+    .comment-content p {
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    /* footer-form responsive part */
+    .footer-form input {
+        width: 529px;
+        margin-bottom: 14px;
+    }
+    .footer-form button {
+        padding: 17px 35px;
+        right: 0px;
+        top: 16px;
+    }
+
+}
+
+@media (min-width:576px) and (max-width:767px){
+
+    .humburger {
+        background-color: transparent;
+        height: 31px;
+        width: 39px;
+    }
+
+    #nav-bar-section {
+        position: sticky;
+        background: rgb(179, 38, 197);
+    }
+      /* navbar-responsive part */
+      .navbar {
+        padding-top: 0;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 3px 0px;
+    }
+    .navbar-brand {
+        transform: scale(.8);
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0px 0px;
+        text-align: center;
+    }
+    .nav-link ::after{
+        display: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 13px;
+        color: #000;
+    }
+    .nav-link::after {
+
+        display: none;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .ban-text {
+        width: 100%;
+    }
+    .ban-text h2 {
+        font-size: 45px;
+    }
+    .ban-text h1 {
+        font-size: 41px;
+    }
+    .ban-btn {
+        padding-top: 30px;
+        
+    }
+    .ban-btn a {
+        padding: 7px 17px;
+        
+    }
+    .ban-btn::after {
+        top: 9px;
+        left: 50%;
+        width: 45px;
+        transform: translate(-50%,-50%);
+    }
+
+    /* About responsive start */
+    #about-section {
+        padding-top: 42px;
+        padding-bottom: 80px;
+    }
+
+    .header-section h3 {
+        font-size: 23px;
+    }
+
+    .header-section h2 {
+        font-size: 25px;
+    }
+    .header-section h2::after {
+        left: 50%;
+        bottom: -23px;
+        width: 49px;
+    }
+    .header-section p {
+        padding-top: 37px;
+    }
+    .about-wrapper {
+        margin-top: -36px;
+    }
+    /* service part responsive */
+    #service-section {
+        padding-bottom: 58px;
+    }
+
+    .s-content h4 {
+        font-size: 16px;
+        margin-top: 10px;
+    }
+
+    .s-content p {
+        font-size: 13px;
+    }
+
+
+    /* comment responsive part */
+
+    .comment-content p {
+        font-size: 14px;
+        line-height: 26px;
+    }
+
+    .left-icon {
+        display: none;
+    }
+    .right-icon {
+        display: none;
+    }
+
+    /* team section responsive part */
+
+    #team {
+        padding-top: 2px;
+        padding-bottom: 65px;
+    }
+
+    .header-section h2 {
+        padding-top: 1px;
+    }
+
+    /* counter responsive part */
+
+    .counter-number h2 {
+        font-size: 58px; 
+    }
+
+    /* foorer-top responsive part */
+    .footer-form input {
+        width: 520px;
+        margin-top: 24px;
+        margin-bottom: 20px;
+    }
+
+    .footer-form button {
+        right: -4px;
+    }
+
+    .middle-header h4 {
+
+        margin-top: 13px;
+    }
+
+}
+
+
+@media (max-width:575.99px){
+
+    /* humburger menu */
+
+    .humburger {
+        background-color: transparent;
+        height: 31px;
+        width: 39px;
+    }
+
+    #nav-bar-section {
+        position: sticky;
+        background: rgb(179, 38, 197);
+    }
+
+    /* navbar-responsive part */
+    .navbar {
+        padding-top: 0;
+    }
+    .navbar-nav {
+        /* background: #ac7a0f; */
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 3px 0px;
+    }
+    .navbar-brand {
+        transform: scale(.7);
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0px 0px;
+        text-align: center;
+    }
+    .nav-link ::after{
+        display: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 13px;
+        color: #000;
+    }
+    .nav-link::after {
+
+        display: none;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    /* banner responsive part */
+    
+    .ban-text {
+        width: 100%;
+        padding-top: 25px;
+    }
+    .ban-text h2 {
+        font-size: 19px;
+    }
+
+    .ban-text h1 {
+        font-size: 20px;
+    }
+    .ban-btn {
+        padding-top: 0px;
+        margin-top: 14px;
+    }
+    .ban-btn a {
+        padding: 4px 8px;
+        font-size: 13px;
+    }
+    .ban-btn::after {
+        display: none;
+    }
+    #about-section {
+        padding-top: 33px;
+    }
+
+    .header-section h3 {
+        font-size: 19px;
+    }
+
+    .header-section h2 {
+        font-size: 17px;
+        padding-top: 2px;
+    }
+    .header-section h2::after {
+        left: 126px;
+        bottom: -9px;
+        height: 2px;
+        width: 41px;
+    }
+    .about-wrapper {
+        margin-top: -71px;
+        margin-bottom: -62px;
+    }
+    .header-section p {
+        font-size: 13px;
+        padding-top: 10px;
+    }
+    .counter-number h2 {
+        font-size: 47px;
+    }
+    .counter-number p {
+        font-size: 13px;
+    }
+    .s-content {
+        text-align: center;
+    }
+    .s-content h4 {
+        padding-top: 12px;
+    }
+/* counter up */
+    #counter-up {
+        margin-bottom: 39px;
+    }
+
+    .second-hdr {
+        padding-bottom: 23px;
+    }
+
+    .header-section h2::after {
+        bottom: -15px;
+        height: 2px;
+        display: none;
+    }
+    .follow-icon i {
+        padding: 0 8px;
+        font-size: 20px;
+    }
+
+    .footer-form input {
+        width: 293px;
+        margin-top: 11px;
+        border-radius: 5px;
+    }
+    .footer-form button {
+        padding: 16px 35px;
+        right: 42px;
+        top: 3px;
+
+    }
+
+    .middle-header h4 {
+        margin-top: 20px;
+    }
+
+    .comment-content p {
+        font-size: 13px;
+        line-height: 24px;
+        margin-top: 17px;
+        text-align: center;
+    }
+    .comment-content h4::after {
+        left: -52px;
+        top: 12px;
+        width: 45px;
+        height: 4px;
+    }
+    .left-icon {
+        display: none;
+    }
+    .right-icon {
+        display: none;
+    }
+
+    #service-section {
+        padding-bottom: 13px;
+    }
+    #comment-section {
+        padding-bottom: 45px;
+    }
+
+    #team {
+        padding-top: 6px;
+        padding-bottom: 42px;
+    }
+}
+
+
+@media (max-width:575px){
+    .navbar {
+       padding-top: 0;
+    }
+    .ban-text h2 {
+        font-size: 40px;
+    }
+    .ban-text h1 {
+        font-size: 39px;
+    }
+    .ban-btn {
+        margin-top: 20px;
+    }
+    .ban-btn a {
+        padding: 9px 23px;
+    }
+    .s-icon i {
+        font-size: 55px;
+    }
+    .s-content h4 {
+        padding-top: 12px;
+    }
+    .s-content p {
+        font-size: 19px;
+    }
+
+    @media (min-width:316px){
+        .ban-text h2 {
+            font-size: 26px;
+        }
+        .ban-text h1 {
+            font-size: 23px;
+        }
+        .ban-btn {
+            margin-top: 2px;
+        }
+        .ban-btn a {
+            padding: 3px 12px;
+        }
+    }
+}
